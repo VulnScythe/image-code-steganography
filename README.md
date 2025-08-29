@@ -51,7 +51,7 @@ Executes it immediately
 
 ---
 
-##⚡ Notes
+## ⚡ Notes
 
 The hidden code is simply appended to the image file.
 
