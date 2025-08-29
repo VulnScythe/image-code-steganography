@@ -59,3 +59,7 @@ The image still works as an image, but if you open it in a hex editor, you can s
 
 For true pixel-based steganography, more advanced methods are needed.
 
+---
+
+## 💌 Support
+If you found this project helpful, please consider giving it a star or following my profile.
