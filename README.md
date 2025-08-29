@@ -15,10 +15,14 @@ It is intended for **educational and security research purposes only** (e.g., sh
 ---
 
 ## 📂 Repository Structure
-embed_code.py → Script to hide Python code in an image /n
+embed_code.py → Script to hide Python code in an image 
+
 auto_extract_and_run.py → Script to extract and run hidden code
+
 example.png → Example carrier image
+
 README.md → Documentation
+
 LICENSE → MIT license
 
 ---
@@ -30,7 +34,9 @@ LICENSE → MIT license
 python embed_code.py example.png secret_code.py infected.png
 ```
 Takes example.png and a Python file (secret_code.py)
+
 Embeds the code inside the image
+
 Produces a new image (infected.png) that still opens normally
 
 ### 2. Extract & Execute Automatically
@@ -38,7 +44,9 @@ Produces a new image (infected.png) that still opens normally
 python auto_extract_and_run.py infected.png
 ```
 Reads the specified image (infected.png)
+
 Extracts the hidden Python code
+
 Executes it immediately
 
 ---
@@ -46,6 +54,8 @@ Executes it immediately
 ##⚡ Notes
 
 The hidden code is simply appended to the image file.
+
 The image still works as an image, but if you open it in a hex editor, you can see the hidden data.
+
 For true pixel-based steganography, more advanced methods are needed.
 
