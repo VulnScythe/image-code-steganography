@@ -15,7 +15,7 @@ It is intended for **educational and security research purposes only** (e.g., sh
 ---
 
 ## 📂 Repository Structure
-embed_code.py → Script to hide Python code in an image
+embed_code.py → Script to hide Python code in an image /n
 auto_extract_and_run.py → Script to extract and run hidden code
 example.png → Example carrier image
 README.md → Documentation
