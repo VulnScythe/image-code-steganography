@@ -1,6 +1,3 @@
-# embed_code.py
-# Usage: python embed_code.py image.png secret_code.py output.png
-
 import sys
 
 def embed_code(image_path, code_path, output_path):
