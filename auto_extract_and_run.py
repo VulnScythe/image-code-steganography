@@ -1,6 +1,3 @@
-# auto_extract_and_run.py
-# Usage: python auto_extract_and_run.py image_with_code.png
-
 import sys
 import subprocess
 import tempfile
@@ -31,7 +28,7 @@ def extract_and_run(image_path):
     # Run the extracted script
     subprocess.run([sys.executable, tmp_file.name])
 
-    # Optional: remove after running
+    # remove after running
     os.remove(tmp_file.name)
 
 if __name__ == "__main__":
