@@ -1,12 +1,3 @@
-\ \ / / | | / | | | | |
-\ \ / / | | __ | ( ___ _ | || |_ ___
-\ / / | | | | '_ \ ___ \ / | | | | | ' \ / _
-\ /| || | | | | |____) | (| || | || | | | /
-/ _,||| |_|/ _|_, |_|| ||___|
-/ |
-|/        
-                                                                                                        
-                                                                            
 # 🖼️ Image Code Steganography
 
 This project demonstrates a simple way to **embed Python code into an image file** and later **extract & execute it**.  
