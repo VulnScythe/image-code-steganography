@@ -30,7 +30,7 @@ if __name__ == "__main__":
    ░███     ░█████░██ ░██ ░██    ░██   ░██████    ░███████   ░█████░██     ░████ ░██    ░██  ░███████  
                                                                    ░██                                 
                                                              ░███████                                  
-Github: https://github.com/VulnScythe                                                                                                                                                                                                                                                                                                    
+Credits: https://github.com/VulnScythe                                                                                                                                                                                                                                                                                                    
 """)
     if len(sys.argv) != 4:
         print("Usage: python embed_code.py <image.png> <code.py> <output.png>")
